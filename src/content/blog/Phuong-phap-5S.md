@@ -2,7 +2,7 @@
 title: "Phương pháp 5S"
 description: "Giới thiệu phương pháp 5S"
 pubDate: "Feb 17 2025"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "/Chainsaw Man.png"
 ---
 
 # Phương pháp 5S
